@@ -2,6 +2,15 @@
 
 Repositório de Estruturas de Informação, que contém exercícios realizados durantes as aulas práticas laboratoriais de ESINF e os 3 projetos realizados ao longo do semestre. 
 
+Os exercícios realizados durante as práticas laboratoriais são relativamente aos temas abordados durante o semestre: 
+
+1. Recursão
+2. Java Collections Framework
+3. Análise de Complexidade
+4. Grafos
+5. Trees
+6. Priority Queues
+
 ## 1º Projecto - Países/COVID-19
 
 Pretendia-se com este projeto o desenvolvimento de uma aplicação que permita gerir a informação de vários países relacionada com a pandemia COVID-19 tal como população, idade média, nº de casos, nº de óbitos, índices de fatores de risco como idade, diabetes, etc.
