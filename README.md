@@ -37,8 +37,8 @@ No 3º projeto envolve a criação de uma biblioteca de classes, respetivos mét
 Usando apenas a estrutura árvore binária de pesquisa (BST), foi desenvolvido da forma mais eficiente possível as seguintes funcionalidades:
 
 1. A/(s) classe/(s) que permita obter toda a informação relativa a cada um dos elementos da tabela periódica:
-	1.1 - Pesquisa de elementos por qualquer um dos seguintes campos: Atomic Number, Element, Symbol ou Atomic Mass.
-	1.2 - Pesquisa por intervalo de valores de Atomic Mass Através de dois valores (mínimo e máximo) passados por parâmetro, devolver o conjunto de elementos com Atomic Mass nesse intervalo ordenado por Discoverer e Year of Discovery (cresc./decres.) juntamente com um sumário do número de elementos devolvidos agrupados por Type e Phase.
+	A) - Pesquisa de elementos por qualquer um dos seguintes campos: Atomic Number, Element, Symbol ou Atomic Mass.
+	B) - Pesquisa por intervalo de valores de Atomic Mass Através de dois valores (mínimo e máximo) passados por parâmetro, devolver o conjunto de elementos com Atomic Mass nesse intervalo ordenado por Discoverer e Year of Discovery (cresc./decres.) juntamente com um sumário do número de elementos devolvidos agrupados por Type e Phase.
 2. Recorrendo apenas à estrutura árvore binária de pesquisa (BST), devolver por ordem decrescente as configurações electrónicas com mais do que uma repetição, agrupadas por número de repetições.
 3. Constrir uma nova BST inserindo por ordem decrescente as configurações electrónicas com repetição acima de 2 obtidas na alínea anterior.
 4. Um método que devolva os valores das duas configurações electrónicas mais distantes na árvore e a respectiva distância. Foi considerado como medida de distância entre as configurações electrónicas, o número de ramos que distam uma da outra.
